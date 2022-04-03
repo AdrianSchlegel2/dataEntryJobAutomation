@@ -3,6 +3,8 @@
  - Whats the address of the property?
  - Whats the price per month?
  - Whats the link to the property?
+
+
 **In settings enter that they are short answer questions**.
 Then enter your link in the code and you are ready to go.
 Then to finish everything of, when the code has run, enter the gmail account you created the form with, navigate to answers and click: *create spreadsheet*.
